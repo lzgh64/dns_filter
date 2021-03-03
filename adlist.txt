@@ -1,0 +1,13 @@
+||*atm.youku.com^
+||lstat.youku.com^
+||*.lstat.youku.com^
+||stat.youku.com^
+||adextensioncontrol.tudou.com^
+||iwstat.tudou.com^
+||nstat.tudou.com^
+||stats.tudou.com^
+||stat.tudou.com^
+||p2v.tudou.com^
+||at-img*.tdimg.com^
+||adplay.tudou.com^
+||adcontroL.tudou.com^
